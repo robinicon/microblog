@@ -2,9 +2,7 @@
 layout: page
 title: 关于Jim
 permalink: /about/
----
----
-关于Jim  
+--- 
 
 Jim 这个称呼起源于高中时代，英语老师给每个学生起的英文名字(James)。后来注册账户什么的一直保持沿用，后来，在一次修改Q群备注的时候发现居然有人跟我用同一个ID，于是简化称呼为Jim。  
 
@@ -17,7 +15,7 @@ Jim 这个称呼起源于高中时代，英语老师给每个学生起的英文�
 
 感谢 Jekyll-Pixyll主题 的设计师,因为你设计的博客风格特别对我的口味儿。  
 
-Jekyll-Pixyll主题:[Github repository](https://github.com/johnotander/pixyll)
-Jekyll主题精心制作[John Otander](http://johnotander.com)
-([@4lpine](https://twitter.com/4lpine))
-开源-免费 ([MIT](http://opensource.org/licenses/MIT))
+Jekyll-Pixyll主题:[Github repository](https://github.com/johnotander/pixyll)  
+Jekyll主题精心制作[John Otander](http://johnotander.com)  
+([@4lpine](https://twitter.com/4lpine))  
+开源-免费 ([MIT](http://opensource.org/licenses/MIT))  
