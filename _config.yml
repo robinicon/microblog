@@ -1,8 +1,8 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
+title:       老叨的个人主页
+email:       xue_yun_long@sina.cn
 author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+description: "乱山残雪夜，孤烛异乡人。渐与骨肉远，转于僮仆亲。"
 baseurl:     "/microblog"
 url:         "http://robinicon.github.io/microblog"
 
