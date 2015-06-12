@@ -1,9 +1,9 @@
 ---
 layout:     post
-title:      Pixyll has Pagination
+title:      Pixyll分页
 date:       2014-06-08 11:21:29
-summary:    This is an empty post to illustrate the pagination component with Pixyll.
-categories: jekyll pixyll
+summary:    这是一个说明与Pixyll分页组件。
+categories: jekyll-pixyll
 ---
 
-This is an empty post to illustrate the pagination component with Pixyll.
+这是一个空的页面说明与Pixyll分页组件。
