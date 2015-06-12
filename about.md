@@ -15,7 +15,7 @@ Jim 这个称呼起源于高中时代，英语老师给每个学生起的英文�
 关注领域 游戏 体育 网络技术 文学 书法 旅游  
 ---
 感谢 Jekyll-Pixyll主题 的设计师,因为你设计的博客风格特别对我的口味儿。  
-===
+---
 Jekyll-Pixyll主题:[Github repository](https://github.com/johnotander/pixyll)  
 Jekyll主题精心制作[John Otander](http://johnotander.com)
 ([@4lpine](https://twitter.com/4lpine))  
